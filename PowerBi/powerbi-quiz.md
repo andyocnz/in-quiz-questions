@@ -122,5 +122,5 @@ Answer 2. Donut
 3. Scatter chart
 4. Bubble chart
 
-#### Answer 3 - bubble
+#### Answer 3 - scatter
 
