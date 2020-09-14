@@ -1,3 +1,4 @@
+
 # Linkedin-quiz-questions
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-41-orange.svg?style=flat-square)](#contributors-)
@@ -34,6 +35,7 @@
 | [Search Engine Optimization (SEO)](https://github.com/Ebazhanov/in-quiz-questions/blob/master/seo/search-engine-optimization-quiz.md) |  partially answered |
 | [Swift](https://github.com/Ebazhanov/in-quiz-questions/blob/master/swift/swift_quiz.md) |  with answers |
 | [XML](https://github.com/Ebazhanov/in-quiz-questions/blob/master/xml/xml-quiz.md) |  answers required |
+| [Power BI](https://github.com/andyocnz/in-quiz-questions/blob/master/PowerBi/powerbi-quiz.md) |  partially required |
 
 ## Contributors ✨
 
@@ -95,6 +97,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="http://linkedin.com/in/abmaxwell/"><img src="https://avatars1.githubusercontent.com/u/25352305?v=4" width="100px;" alt=""/><br /><sub><b>Alexander Maxwell</b></sub></a><br /><a href="#design-abmaxwell" title="Design">🎨</a></td>
     <td align="center"><a href="https://github.com/SlavaSD"><img src="https://avatars2.githubusercontent.com/u/38739299?v=4" width="100px;" alt=""/><br /><sub><b>Slava</b></sub></a><br /><a href="#design-SlavaSD" title="Design">🎨</a></td>
     <td align="center"><a href="https://github.com/mayurbiw"><img src="https://avatars2.githubusercontent.com/u/20475960?v=4" width="100px;" alt=""/><br /><sub><b>Mayur Khatri</b></sub></a><br /><a href="#design-mayurbiw" title="Design">🎨</a></td>
+<td align="center"><a href="https://github.com/andyocnz"><img src="https://avatars0.githubusercontent.com/u/37286142?s=400&u=a086a7298afc60c42ca78ec4d3629c00c6a5fb28&v=4" width="100px;" alt=""/><br /><sub><b>Andyocnz</b></sub><br /><a href="https://github.com/andyocnz/in-quiz-questions/blob/master/PowerBi/powerbi-quiz.md" title="Code">💻</a>
+</td>
+
   </tr>
 </table>
 
